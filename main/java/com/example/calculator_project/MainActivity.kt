@@ -16,6 +16,7 @@ class MainActivity : AppCompatActivity() {
     var lastnumeric = false
     var stateError = false
     var lastdot = false
+    var last_element = false
 
     lateinit var expression: Expression
 
